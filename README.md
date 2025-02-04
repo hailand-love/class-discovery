@@ -3,3 +3,4 @@ i am a undergraduate student want to learn hardware in the future. and i want to
 if you want to offer some good suggestion on the learning path to me on subjects like photonics, microelectronics and so on, i'm eager to learn from you.
 #some good schools
 https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/syllabus/
+https://www.coursera.org/learn/machine-learning
