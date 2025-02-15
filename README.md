@@ -7,3 +7,4 @@ MIT光学入门https://ocw.mit.edu/courses/2-71-optics-spring-2014/pages/syllabu
 Windows命令行—注意和macOS的shell语言完全是两回事！https://cloud.tencent.com/developer/article/2370487<br>
 一个学overleaf的非常好的网站https://www.overleaf.com/learn<br>
 感觉GitHub更适合以终为始的去用，然后不会的问chat（因为开源的资源已经很多了）（？<br>
+The Conversation is a website where academics and researchers write articles explaining scientific topics in accessible language. https://theconversation.com/us<br>
