@@ -10,3 +10,5 @@ Windows命令行—注意和macOS的shell语言完全是两回事！https://clou
 The Conversation is a website where academics and researchers write articles explaining scientific topics in accessible language. https://theconversation.com/us<br>
 deepseek教程资料  https://scnne6u9boge.feishu.cn/wiki/CSLhwJ6rdiyP6ck4jSQcSgBOnHd<br>
 https://www.waytoagi.com/zh<br>
+Berkeley数值分析http://persson.berkeley.edu/math128a/lecture_videos.html<br>
+https://math.berkeley.edu/~andrewshi/docs/Math%20128a%20Lecture%20Notes.pdf<br>
