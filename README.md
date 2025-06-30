@@ -15,3 +15,4 @@ https://math.berkeley.edu/~andrewshi/docs/Math%20128a%20Lecture%20Notes.pdf<br>
 Department of Applied Mathematics and Theoretical Physics of cambridge https://www.damtp.cam.ac.uk/ <br>
 Department of Pure Mathematics and Mathematical Statistics https://www.dpmms.cam.ac.uk/<br>
 游戏中的博弈论https://www.coursera.org/learn/game-theory-1<br>
+algebra artin solution manual https://github.com/awasthi/math-solutions/blob/master/Artin/Artin%20Solutions.tex<br>
